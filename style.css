@@ -1,3 +1,18 @@
+body {
+  background-color: #93abd3;
+}
 h1 {
   text-align: center;
+  font-style: italic;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+#timer {
+  text-align: center;
+  font-size: 50px;
+}
+#startbtn {
+  align-content: center;
+}
+.lap {
+  font-size: 40px;
 }
